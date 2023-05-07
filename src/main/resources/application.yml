@@ -1,0 +1,11 @@
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+  server:
+    peer-node-read-timeout-ms: 60000
+spring:
+  application:
+    name: server-registry
+server:
+  port: 8761
