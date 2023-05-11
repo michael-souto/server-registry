@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.detrasoft</groupId>
 	<artifactId>server-registry</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>server-registry</name>
 	<description>Registry and discovery management server</description>
 	<properties>
